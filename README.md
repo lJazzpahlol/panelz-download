@@ -20,4 +20,4 @@ https://github.com/lJazzpahlol/panelz-download/releases/latest/download/Panelz-w
 
 ## Updates
 
-Panelz checks for new versions on launch. When one is available, a tray notification appears and an UPDATE NOW button shows inside the panel - Panelz downloads the new build and restarts itself. Your panels and settings are kept.
+Panelz checks for new versions on launch. When one is available, a tray notification appears and an UPDATE NOW button shows inside the panel - Panelz downloads the new build and restarts itself. Your panels and settings are kept. Normal app/UI fixes ship as a small `Panelz-patch-win64.zip`; installed copies prefer that automatically and fall back to the full `Panelz-win64.zip` if the patch is missing or fails.
