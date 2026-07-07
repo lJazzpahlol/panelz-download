@@ -17,3 +17,7 @@ https://github.com/lJazzpahlol/panelz-download/releases/latest/download/Panelz-w
 - No account
 - No telemetry
 - Configuration is stored locally beside the app
+
+## Updates
+
+Panelz checks for new versions on launch. When one is available, a tray notification appears and an UPDATE NOW button shows inside the panel - Panelz downloads the new build and restarts itself. Your panels and settings are kept.
